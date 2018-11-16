@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e393ac34-51b8-4295-a3d2-244d8113d1ab" name="Default Changelist" comment="sdfsdd">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e393ac34-51b8-4295-a3d2-244d8113d1ab" name="Default Changelist" comment="sdfsdd" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/realdolmen/jenkins/domain/Greeter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -154,7 +152,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-5" />
     <option name="width" value="979" />
     <option name="height" value="1040" />
@@ -295,7 +293,7 @@
       <workItem from="1542372249237" duration="4505000" />
       <workItem from="1542378386824" duration="3237000" />
       <workItem from="1542399632506" duration="671000" />
-      <workItem from="1542400695252" duration="1458000" />
+      <workItem from="1542400695252" duration="2124000" />
     </task>
     <task id="LOCAL-00001" summary="sdfsd">
       <created>1542373893233</created>
@@ -326,7 +324,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13022000" />
+    <option name="totallyTimeSpent" value="13688000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,7 +423,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/realdolmen/jenkins/domain/Greeter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
