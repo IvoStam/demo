@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e393ac34-51b8-4295-a3d2-244d8113d1ab" name="Default Changelist" comment="sdfsd">
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e393ac34-51b8-4295-a3d2-244d8113d1ab" name="Default Changelist" comment="sdfsd" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,6 +37,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Dockerfile" value="122" />
+          <entry key="Jenkinsfile" value="3" />
           <entry key="java" value="204" />
           <entry key="txt" value="5" />
           <entry key="xml" value="293" />
@@ -49,6 +47,7 @@
         <counts>
           <entry key="Dockerfile" value="21" />
           <entry key="JAVA" value="204" />
+          <entry key="Jenkins file" value="3" />
           <entry key="PLAIN_TEXT" value="106" />
           <entry key="XML" value="293" />
         </counts>
@@ -69,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -151,7 +150,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -290,7 +289,7 @@
       <updated>1542364692391</updated>
       <workItem from="1542364696302" duration="3151000" />
       <workItem from="1542372249237" duration="4505000" />
-      <workItem from="1542378386824" duration="104000" />
+      <workItem from="1542378386824" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="sdfsd">
       <created>1542373893233</created>
@@ -314,7 +313,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7760000" />
+    <option name="totallyTimeSpent" value="8047000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,7 +326,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19798657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -412,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
