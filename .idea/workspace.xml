@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e393ac34-51b8-4295-a3d2-244d8113d1ab" name="Default Changelist" comment="sdfsd">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/realdolmen/jenkins/domain/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/realdolmen/jenkins/domain/Greeter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,7 +40,7 @@
         <counts>
           <entry key="Dockerfile" value="122" />
           <entry key="Jenkinsfile" value="3" />
-          <entry key="java" value="238" />
+          <entry key="java" value="239" />
           <entry key="txt" value="5" />
           <entry key="xml" value="293" />
         </counts>
@@ -49,7 +48,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Dockerfile" value="21" />
-          <entry key="JAVA" value="238" />
+          <entry key="JAVA" value="239" />
           <entry key="Jenkins file" value="3" />
           <entry key="PLAIN_TEXT" value="106" />
           <entry key="XML" value="293" />
@@ -99,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/realdolmen/jenkins/domain/Greeter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -153,10 +152,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -292,7 +291,7 @@
       <updated>1542364692391</updated>
       <workItem from="1542364696302" duration="3151000" />
       <workItem from="1542372249237" duration="4505000" />
-      <workItem from="1542378386824" duration="1675000" />
+      <workItem from="1542378386824" duration="1942000" />
     </task>
     <task id="LOCAL-00001" summary="sdfsd">
       <created>1542373893233</created>
@@ -316,7 +315,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9331000" />
+    <option name="totallyTimeSpent" value="9598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,9 +327,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19798657" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40915394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -345,7 +344,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3134752" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31707317" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32907802" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -414,7 +413,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/realdolmen/jenkins/domain/Greeter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
